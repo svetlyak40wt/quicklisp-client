@@ -2,6 +2,8 @@ This fork's patches:
 
 * support-slash-in-dist-name (https://github.com/quicklisp/quicklisp-client/pull/206)
 
+Original README:
+
 This is the client portion of Quicklisp. It is responsible for
 downloading and managing project metadata, downloading and installing
 project releases, loading system files, and performing code, data, and
